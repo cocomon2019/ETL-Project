@@ -1,3 +1,3 @@
 # ETL-Project
 
-Teams: Joyce Tao, Jun Yoo, and Ricardo Flores 
+Group: Joyce Tao, Jun Yoo, and Ricardo Flores 
